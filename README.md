@@ -4,6 +4,7 @@ Universidad de Palermo · Servidor Debian 12 `TPServer`
 
 ## Integrantes
 
+- Agustín Anzuinelli
 - Alexis Figueroa
 - 
 - 
